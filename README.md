@@ -18,7 +18,7 @@ This code captures video from a webcam, analyzes the color at the center of each
 
 ### Build With
 
-**1.Python:** The programming language used.
+**1. Python:** The programming language used.
 
 **2. OpenCV (cv2):** A library for computer vision tasks, used here for video capture, image processing, and display.
 
